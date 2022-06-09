@@ -21,6 +21,7 @@ axs[1].set_title("Cecha 2")
 axs[1].set_ylabel("Indeks cechy")
 axs[1].set_xlabel("Wartość cechy")
 plt.tight_layout()
-plt.show()
 plt.savefig("wykres3.png")
+plt.show()
+
 
